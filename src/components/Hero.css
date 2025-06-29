@@ -1,0 +1,51 @@
+.container{
+    height: 613px;
+    width: 1125px;
+    margin: 80px auto;
+    display: flex;
+}
+
+.content{
+    height: 613px;
+    width: 595;
+}
+
+.content h1{
+    height: 306px;
+    width: 595px;
+    line-height: 102px;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+.content p{
+    height: 91px;
+    width: 404px;
+    line-height: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.content button{
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0px 5px;
+}
+
+.shop{
+    background-color: #D01C28;
+}
+
+.img{
+    height: 487.5px;
+    width: 530px;
+    margin: 0px auto;
+}
+
+.img img{
+    height: 100%;
+    width: 100%;
+}
