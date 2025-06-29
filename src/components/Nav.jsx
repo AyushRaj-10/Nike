@@ -4,7 +4,7 @@ import './Nav.css'
 const Nav = () => {
   return (
     <div className="nav ">
-        <img src="../../public/Nike.png" alt=""  />
+        <img src="/Nike.png" alt=""  />
         <ul>
             <li>Menu</li>
             <li>Location</li>
